@@ -1,3 +1,4 @@
+import os
 from fastapi import FastAPI, UploadFile
 import shutil
 from app.parser import extract_text
