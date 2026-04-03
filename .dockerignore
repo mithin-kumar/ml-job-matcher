@@ -1,0 +1,14 @@
+.DS_Store
+.Trash
+.git
+.gitignore
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.tmp
+*.log
+node_modules
+.env
